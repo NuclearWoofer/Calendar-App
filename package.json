@@ -1,0 +1,31 @@
+{
+  "name": "se373_finalproject",
+  "version": "1.0.0",
+  "description": "For my final project, I am creating a basic Planner App utilizing the skills learned in SE373 - Open Source Web Development. Users will be able to create and plan tasks on a calendar supplied by a calendar API as well as delete and update those tasks. Users can set up these tasks at any date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuclearWoofer/SE373_FinalProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NuclearWoofer/SE373_FinalProject/issues"
+  },
+  "homepage": "https://github.com/NuclearWoofer/SE373_FinalProject#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.6",
+    "express": "^4.18.1",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.2.0",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.5.1",
+    "mongoskin": "^0.3.7",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {}
+}
